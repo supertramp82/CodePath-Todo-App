@@ -33,6 +33,8 @@ Here's a walkthrough of implemented user stories:
 
 <a href="/okver2/CodePath---ToDoApp/blob/master/readme.gif" target="_blank"><img src="/okver2/CodePath---TodoApp/raw/master/readme.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" style="max-width:100%;"></a>
 
+<a href="/okver2/CodePath---ToDoApp/blob/master/readme.gif" target="_blank"><img src="/okver2/CodePath---ToDoApp/raw/master/ToDoApp.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" style="max-width:100%;"></a>
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
