@@ -10,7 +10,6 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import org.apache.commons.io.FileUtils;
 
@@ -70,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
                 i.putExtra("editTodo", ((TextView) view).getText());
                 i.putExtra("position", position);
                 // When clicked, show a toast with the TextView text or do whatever you need.
-                Toast.makeText(getApplicationContext(), ((TextView) view).getText(), Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(), ((TextView) view).getText(), Toast.LENGTH_SHORT).show();
                 startActivityForResult(i, REQUEST_CODE);
             }
         });
@@ -105,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
             int position = data.getExtras().getInt("position", 0);
             int code = data.getExtras().getInt("code", 0);
             // Toast the name to display temporarily on screen
-            Toast.makeText(this, txtEditTodo, Toast.LENGTH_SHORT).show();
+            //Toast.makeText(this, txtEditTodo, Toast.LENGTH_SHORT).show();
             items.set(position, txtEditTodo);
             itemsAdapter.notifyDataSetChanged();
             writeItems();
