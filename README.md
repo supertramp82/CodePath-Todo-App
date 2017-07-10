@@ -33,6 +33,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<a href="/okver2/CodePath---ToDoApp/blob/master/ToDoApp.gif" target="_blank"><img src="/okver2/CodePath---ToDoApp/raw/master/ToDoApp.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" style="max-width:100%;"></a>
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
