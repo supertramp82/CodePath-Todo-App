@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/blob/master/readme.gif" target="_blank"><img src="raw/master/readme.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" style="max-width:100%;"></a>
+<a href="readme.gif" target="_blank"><img src="readme.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" style="max-width:100%;"></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
