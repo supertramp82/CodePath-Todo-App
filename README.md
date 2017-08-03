@@ -4,7 +4,7 @@
 
 Submitted by: **Oleg Khryashchev**
 
-Time spent: ** 4 ** hours spent in total
+Time spent: ** 12 ** hours spent in total
 
 ## User Stories
 
