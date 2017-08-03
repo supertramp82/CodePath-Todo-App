@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">eTasker</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">No tasks planned...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a task</string>
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_task">Insert Dummy Task</string>
+
+    <!-- Label for overflow menu option that deletes all pet data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_tasks">Delete All Tasks</string>
+
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Med</string>
+    <string name="priority_high">High</string>
+
+    <string name="status_not_started">Not Started</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_completed">Completed</string>
+
+    <string name="label_description">Description</string>
+    <string name="hint_task_description">Task Description</string>
+    <string name="label_priority">Priority</string>
+    <string name="label_status">Status</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <string name="edit_item_activity_edit_task">Edit Task</string>
+    <string name="edit_item_activity_add_task">Add Task</string>
 </resources>
